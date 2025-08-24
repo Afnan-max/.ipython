@@ -1,0 +1,6 @@
+print("HEllo, I Am Afnan")
+print("I am learning Github")
+print("I am learning python")
+print("I am learning AI")
+print("I am learning ML")
+print("I am learning Data Science")
